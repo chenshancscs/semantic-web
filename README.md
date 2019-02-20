@@ -14,8 +14,12 @@ Tools, resources and notes about semantic web and knowledge graph
 
 ### Standards
 
-- [VIAF](http://viaf.org/)
+- [VIAF， The Virtual International Authority File](http://viaf.org/)
+  - The VIAF® (Virtual International Authority File) combines multiple name authority files into a single OCLC-hosted name authority service. The goal of the service is to lower the cost and increase the utility of library authority files by matching and linking widely-used authority files and making that information available on the Web.
 
 ### Knowledge Graph
 
-- [schema.org](https://schema.org/docs/gs.html)
+- [schema.org](https://schema.org/)
+  - founded by Google, Microsoft, Yahoo and Yandex
+  - to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
+  - can be used with many different encodings, including RDFa, Microdata and JSON-LD
