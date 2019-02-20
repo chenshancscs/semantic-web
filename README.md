@@ -12,10 +12,14 @@ Tools, resources and notes about semantic web and knowledge graph
 ---
 ## Projects
 
-### Standards
+### Standards/lexicals
 
 - [VIAF， The Virtual International Authority File](http://viaf.org/)
   - The VIAF® (Virtual International Authority File) combines multiple name authority files into a single OCLC-hosted name authority service. The goal of the service is to lower the cost and increase the utility of library authority files by matching and linking widely-used authority files and making that information available on the Web.
+  
+- [WordNet](https://wordnet.princeton.edu/)
+- WordNet® is a large lexical database of English. Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive synonyms (synsets), each expressing a distinct concept.
+- by Princeton University
 
 ### Knowledge Graph
 
